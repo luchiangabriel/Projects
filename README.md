@@ -2,7 +2,8 @@
  Collection of mini python projects
  <br><br>
  <img src="badge.svg" width= "220"/>
-
+ 
+# <i> Projects list
 | Project No | Title                         |
 |------------|-------------------------------|
 | <center>1  | <center>Number guessing       |
