@@ -3,7 +3,7 @@
  <br><br>
  <img src="badge.svg" width= "220"/>
  
-# <i> Projects list
+# <i> Projects list </i>
 | Project No | Title                         |
 |------------|-------------------------------|
 | <center>1  | <center>Number guessing       |
