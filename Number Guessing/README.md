@@ -5,9 +5,9 @@ This script is designed to play the game Number Guessing with the computer.
 
 ## <i>Prerequisites</i>
 ### Modules used 
-| Name module    | Description                      |
-|----------------|----------------------------------|
-| <center>random | <center>Builtin module           |
+|  Name module   |           Description           |
+|:--------------:|:-------------------------------:|
+|     random     |         Builtin module          |
 
 ## <i>Informations</i>
 
