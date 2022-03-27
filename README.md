@@ -4,9 +4,10 @@
  <img src="badge.svg" width= "220"/>
  
 # <i> Projects list </i>
-| Project No | Title                         |
-|------------|-------------------------------|
-| <center>1  | <center>Number guessing       |
-| <center>2  | <center>Roll the dice         |
-| <center>3  | <center>Youtube downloader    |
-| <center>4  | <center>Mathematic calculator |
+| Project No |         Title         |
+|:----------:|:---------------------:|
+|     1      |    Number guessing    |
+|     2      |     Roll the dice     |
+|     3      |  Youtube downloader   |
+|     4      | Mathematic calculator |
+|     5      |     Email slicer      |
