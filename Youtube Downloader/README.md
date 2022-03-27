@@ -14,6 +14,8 @@ This script is designed to download the video file or the audio file using the l
 ## Informations
 
 [Pytube module documentation](https://pytube.io/en/latest/)
+<br>
+[OS module documentation](https://docs.python.org/3/library/os.html)
 
 ## Running steps
 
