@@ -11,12 +11,12 @@ This script is designed to play the game with the same name.
 | <center>random | <center>Builtin module  |
 | <center>time   | <center>Builtin module  | 
 
-## Informations
+## <i>Informations</i>
 
 [Random module documentation](https://docs.python.org/3/library/random.html)
 <br>
 [Time module documentation](https://docs.python.org/3/library/time.html)
-## Running steps
+## <u>Running steps</u>
 
 - Run the script 
 - From the beginning of the running program, it will ask if you want to play the game or not
