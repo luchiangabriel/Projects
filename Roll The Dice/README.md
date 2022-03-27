@@ -29,4 +29,4 @@ This script is designed to play the game with the same name.
 | <center>anything else | <center>invalid input |
 
 - Will have a delay time of 1 second then it will display the result values of the dices
-- After that you will be able to play again or to stop it by pressing 'n'
+- After that you will be able to play again or to stop it
