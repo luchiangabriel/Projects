@@ -12,3 +12,4 @@
 |     4      | Mathematic calculator |
 |     5      |     Email slicer      |
 |     6      |     Binary search     |
+|     7      |     Deck of cards     |
