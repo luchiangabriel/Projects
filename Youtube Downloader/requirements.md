@@ -25,8 +25,8 @@ This script is designed to download the video file or the audio file using the l
   <br>
   <img src="download_options.jpg">
 <br>
-1. Download the video (.mp4)
-<br>
-2. Audio (.mp3)
+  1. Download the video (.mp4)
+  <br>
+  2. Audio (.mp3)
 - The program will let you know when the file is downloading and also when the file is downloaded successfully
 - In the project folder will be displayed the filed downloaded
