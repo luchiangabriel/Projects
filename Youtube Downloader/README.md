@@ -11,13 +11,13 @@ This script is designed to download the video file or the audio file using the l
 | <center>os     | <center>Builtin module           |
 | <center>pytube | <center>```pip install pytube``` |
 
-## Informations
+## <i>Informations</i>
 
 [Pytube module documentation](https://pytube.io/en/latest/)
 <br>
 [OS module documentation](https://docs.python.org/3/library/os.html)
 
-## Running steps
+## <u>Running steps</u>
 
 - Copy the link of an Youtube video
 - Run the script and paste the link when it is asked<br>
