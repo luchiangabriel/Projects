@@ -13,12 +13,12 @@ This script is designed to download the video file or the audio file using the l
 
 ## Informations
 
-[Pytube documentation](https://pytube.io/en/latest/)
+[Pytube module documentation](https://pytube.io/en/latest/)
 
 ## Running steps
 
 - Copy the link of an Youtube video
-- Run the program and paste the link when it is asked<br>
+- Run the script and paste the link when it is asked<br>
 ```Enter the URL:```
 - It will display informations about your video such as Title, Number of views, Length of video and Ratings
 - Select the option you want between
