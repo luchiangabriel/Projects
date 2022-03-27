@@ -24,7 +24,7 @@ This script is designed to download the video file or the audio file using the l
 - Select the option which you want between
   <br>
   <img src="download_options.jpg">
-  <br>
+<br>
 1. Download the video (.mp4)
 <br>
 2. Audio (.mp3)
