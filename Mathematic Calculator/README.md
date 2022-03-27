@@ -6,9 +6,9 @@ This script is designed to do mathematic calculations.
 
 ## <i>Prerequisites</i>
 ### Modules used 
-| Name module  | Description                      |
-|--------------|----------------------------------|
-| <center>math | <center>Builtin module           |
+| Name module |  Description   |
+|:-----------:|:--------------:|
+|    math     | Builtin module |
 
 ## <i>Informations</i>
 
@@ -32,5 +32,5 @@ This script is designed to do mathematic calculations.
 ```
 - Choose the desired operation
 - Enter the number / numbers, depends on the selected operation
-- The result will be displayed in the console
+- The result will be displayed on the console
 - After this, you can do one or more calculations, or you can close the script by pressing key 0, which is meant to close the script
