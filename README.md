@@ -1,5 +1,5 @@
 # Mini Projects
- Collection of mini python projects
+ Collection of mini python projects developed by me to deepen my knowledge and do them for fun.
  <br><br>
  <img src="badge.svg" width= "220"/>
  
