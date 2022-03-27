@@ -33,7 +33,8 @@ def download(x):
         os.rename(out_file, new_file)
         print("Downloaded")
     else:
-        print("\nInvalid option")
+        print()
+        print("Invalid option")
         print("""
 Choose an option: 1. Download video
                   2. Download audio\n""")
