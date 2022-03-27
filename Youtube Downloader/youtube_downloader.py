@@ -14,8 +14,8 @@ print("Ratings: ", yt.rating)
 print()
 print("""
 Choose an option: 1. Download video
-                  2. Download audio""")
-option = int(input("\nOption: "))
+                  2. Download audio\n""")
+option = int(input("Option: "))
 
 
 def download(x):
@@ -36,8 +36,8 @@ def download(x):
         print("\nInvalid option")
         print("""
 Choose an option: 1. Download video
-                  2. Download audio""")
-        choice = int(input("\nOption: "))
+                  2. Download audio\n""")
+        choice = int(input("Option: "))
         download(choice)
 
 
