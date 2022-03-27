@@ -11,3 +11,4 @@
 |     3      |  Youtube downloader   |
 |     4      | Mathematic calculator |
 |     5      |     Email slicer      |
+|     6      |     Binary search     |
