@@ -21,10 +21,10 @@ This script is designed to download the video file or the audio file using the l
 - Run the program and paste the link when it is asked<br>
 ```Enter the URL:```
 - It will display informations about your video such as Title, Number of views, Length of video and Ratings
-- Select the option which you want between
+- Select the option you want between
   <br>
   <img src="requirements/download_options.jpg"><br>
   1. Download the video (.mp4)
-  2. Audio (.mp3)
+  2. Download the audio (.mp3)
 - The program will let you know when the file is downloading and also when the file is downloaded successfully
 - In the project folder will be displayed the filed downloaded
