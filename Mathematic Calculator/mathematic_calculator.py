@@ -69,23 +69,28 @@ while True:
     operation = Calculator(a, b)
 
     if choice == 1:
-        print("Result of gathering is: ", operation.gathering())
+        print("Result of gathering is:", operation.gathering())
     elif choice == 2:
-        print("Result of substract is: ", operation.substract())
+        print("Result of substract is:", operation.substract())
     elif choice == 3:
-        print("Result of multiplication is: ", operation.multiplication())
+        print("Result of multiplication is:", operation.multiplication())
     elif choice == 4:
-        print("Result of division is: ", operation.division())
+        print("Result of division is:", operation.division())
     elif choice == 5:
-        print("Result of rise to power is: ", operation.rise_to_power())
+        print("Result of rise to power is:", operation.rise_to_power())
     elif choice == 6:
-        print("Result of radical is: ", operation.radical())
+        print("Result of radical is:", operation.radical())
     elif choice == 0:
         print("Quit the calculator!")
         break
 
-    option = input("\nWant to do another calculation? [ y ( Yes ) / n ( No ) ]\nEnter: ").lower()
+    print("\nWant to do another calculation? [ y ( Yes ) / n ( No ) ]\n")
+    option = True
+    while option not in ['y', 'n']:
+        option = input("Enter: ").lower()
     if option == 'y':
         continue
     elif option == 'n':
         exit()
+    else:
+        print("Invalid input!")
