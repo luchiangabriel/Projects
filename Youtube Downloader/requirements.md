@@ -13,7 +13,7 @@ This script is designed to download the video file or the audio file using the l
 
 ## Informations
 
-###[Pytube documentation](https://pytube.io/en/latest/)
+[Pytube documentation](https://pytube.io/en/latest/)
 
 ## Running steps
 
@@ -22,6 +22,7 @@ This script is designed to download the video file or the audio file using the l
 ```Enter the URL:```
 - It will display informations about your video such as Title, Number of views, Length of video and Ratings
 - Select the option which you want between
+  <br>
   <img src="download_options.jpg">
   <br>
 1. Download the video (.mp4)
