@@ -6,10 +6,10 @@ This script is designed to download the video file or the audio file using the l
 
 ## <i>Prerequisites</i>
 ### Modules used 
-| Name module    | Description                      |
-|----------------|----------------------------------|
-| <center>os     | <center>Builtin module           |
-| <center>pytube | <center>```pip install pytube``` |
+| Name module |       Description        |
+|:-----------:|:------------------------:|
+|     os      |      Builtin module      |
+|   pytube    | ```pip install pytube``` |
 
 ## <i>Informations</i>
 
