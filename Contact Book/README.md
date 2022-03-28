@@ -32,10 +32,10 @@ This script is designed to keep track of a contact book. With its help you can a
   4. After all of these, the menu will be displayed to let you know all the options available for your contact book
   ```
                1. Show all contacts
-               2. Add a contact
-  |---------|  3. Search a contact
-  | Options |  4. Edit a contact
-  |---------|  5. Delete a contact
+  |---------|  2. Add a contact
+  | Options |  3. Search a contact
+  |---------|  4. Edit a contact
+               5. Delete a contact
                0. Close the contact book
   ```
 - Now you can manage your own contact book
