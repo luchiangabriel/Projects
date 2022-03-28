@@ -30,4 +30,12 @@ This script is designed to keep track of a contact book. With its help you can a
   2. After this, you need to enter your password for the connection
   3. You need to let *Python* know which database you want to use for this use, you will need to input here the name of your database `name_for_database`
   4. After all of these, the menu will be displayed to let you know all the options available for your contact book
+  ```
+               1. Show all contacts
+               2. Add a contact
+  |---------|  3. Search a contact
+  | Options |  4. Edit a contact
+  |---------|  5. Delete a contact
+               0. Close the contact book
+  ```
 - Now you can manage your own contact book
