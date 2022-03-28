@@ -13,3 +13,4 @@
 |     5      |     Email slicer      |
 |     6      |     Binary search     |
 |     7      |     Deck of cards     |
+|     8      |  Rock Paper Scissors  |
