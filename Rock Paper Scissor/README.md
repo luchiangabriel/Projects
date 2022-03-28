@@ -26,4 +26,4 @@ This script is designed to cure your boredom by playing the Rock - Paper - Sciss
 - The computer will take randomly a value
 - If you are lucky you can win the match or, you can lose it, unfortunately
 - The winner will be displayed on console
-- You have the option to play again just by accepting (`y`) or you can close the program (`n`)
+- You have the option to play again just by accepting `y` or you can close the program `n`
