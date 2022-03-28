@@ -42,11 +42,12 @@ mydb = mysql.connector.connect(
 def options():
     print("""
                1. Show all contacts
-               2. Add a contact
-  |---------|  3. Search a contact
-  | Options |  4. Edit a contact
-  |---------|  5. Delete a contact
-               0. Close the contact book
+  |---------|  2. Add a contact
+  | Options |  3. Search a contact
+  |---------|  4. Edit a contact
+               5. Delete a contact
+              ---------------------------
+               0. Close the contact book 
             """)
     option = int(input("Enter option: "))
     while option not in [0, 1, 2, 3, 4, 5]:
