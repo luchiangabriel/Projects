@@ -62,8 +62,8 @@ def game():
     while active:
         user = select()
         ai = computer()
-        rules(ai, user)
-        if rules(ai, user) == ai:
+        rules(user, ai)
+        if rules(user, ai) == ai:
             print("AI wins!")
         else:
             print(f"{name} wins")
