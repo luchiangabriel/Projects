@@ -36,6 +36,7 @@ This script is designed to keep track of a contact book. With its help you can a
   | Options |  3. Search a contact
   |---------|  4. Edit a contact
                5. Delete a contact
-               0. Close the contact book
+              ---------------------------
+               0. Close the contact book 
   ```
 - Now you can manage your own contact book
